@@ -1,0 +1,4 @@
+#Tomcat publish data
+#Thu Aug 08 17:00:25 IST 2024
+org.eclipse.jst.jee.server\:/binary\:C\:\\Users\\daneen\ shaza\\.m2\\repository\\org\\springframework\\spring-web\\6.1.11\\spring-web-6.1.11.jar=C\:\\Tomcat 10.1\\webapps\\web_aug07\\WEB-INF\\lib\\spring-web-6.1.11.jar
+org.eclipse.jst.jee.server\:web_aug07=C\:\\Tomcat 10.1\\webapps\\web_aug07

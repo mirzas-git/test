@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename type &apos;com.rizz.servletTask4.EmployeeForm&apos; to &apos;EmployeeServlet&apos;&#x0D;&#x0A;- Original project: &apos;servletTask4&apos;&#x0D;&#x0A;- Original element: &apos;com.rizz.servletTask4.EmployeeForm&apos;&#x0D;&#x0A;- Renamed element: &apos;com.rizz.servletTask4.EmployeeServlet&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename type &apos;EmployeeForm&apos;" flags="589830" id="org.eclipse.jdt.ui.rename.type" input="/src\/main\/java&lt;com.rizz.servletTask4{EmployeeForm.java[EmployeeForm" matchStrategy="1" name="EmployeeServlet" qualified="false" references="true" similarDeclarations="false" stamp="1720777772226" textual="false" version="1.0"/>
+</session>

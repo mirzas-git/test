@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+    <fullyQualifiedTypeName name="java.io.PrintWriter"/>
+    <fullyQualifiedTypeName name="java.util.Scanner"/>
+    <fullyQualifiedTypeName name="java.lang.String"/>
+    <fullyQualifiedTypeName name="java.sql.ResultSet"/>
+    <fullyQualifiedTypeName name="com.rizz.servletTask4.EmployeeBean"/>
+    <fullyQualifiedTypeName name="java.lang.Integer"/>
+    <fullyQualifiedTypeName name="java.util.Map"/>
+    <fullyQualifiedTypeName name="java.util.HashMap"/>
+    <fullyQualifiedTypeName name="com.rizz.UserApp.UserBean"/>
+    <fullyQualifiedTypeName name="java.sql.DriverManager"/>
+    <fullyQualifiedTypeName name="com.rizz.UserApp.DBInfo"/>
+    <fullyQualifiedTypeName name="java.lang.Class"/>
+    <fullyQualifiedTypeName name="com.rizz.UserApp.RegisterDAO"/>
+    <fullyQualifiedTypeName name="jakarta.servlet.jsp.tagext.TryCatchFinally"/>
+    <fullyQualifiedTypeName name="com.rizz.UserApp.LoginServlet"/>
+    <fullyQualifiedTypeName name="jakarta.servlet.http.Cookie"/>
+    <fullyQualifiedTypeName name="com.rizz.UserApp.DBConnection"/>
+    <fullyQualifiedTypeName name="java.sql.Connection"/>
+    <fullyQualifiedTypeName name="com.rizz.OnlineProductStore.AddProductDAO"/>
+    <fullyQualifiedTypeName name="com.rizz.OnlineProductStore.ProductBean"/>
+    <fullyQualifiedTypeName name="com.rizz.OnlineProductStore.AdminBean"/>
+    <fullyQualifiedTypeName name="com.rizz.OnlineProductStore.DBConnection"/>
+    <fullyQualifiedTypeName name="com.rizz.DAO.AddProductDAO"/>
+    <fullyQualifiedTypeName name="com.rizz.DAO.AdminLoginDAO"/>
+    <fullyQualifiedTypeName name="com.rizz.Beans.AdminBean"/>
+    <fullyQualifiedTypeName name="jakarta.servlet.AsyncContext"/>
+    <fullyQualifiedTypeName name="java.io.Serializable"/>
+    <fullyQualifiedTypeName name="com.rizz.DAOs.DBConnection"/>
+    <fullyQualifiedTypeName name="com.rizz.DAOs.ViewProductsDAO"/>
+    <fullyQualifiedTypeName name="java.util.ArrayList"/>
+    <fullyQualifiedTypeName name="com.rizz.Beans.ProductBean"/>
+    <fullyQualifiedTypeName name="com.rizz.DAOs.UpdateProductDAO"/>
+    <fullyQualifiedTypeName name="com.rizz.DAOs.DeleteProductDAO"/>
+</qualifiedTypeNameHistroy>

@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="ISO-8859-1">
+<title>Insert title here</title>
+</head>
+<body>
+
+	<form action="AdminLogin" method="post" onsubmit="return validateForm()">
+		<table>
+			<caption>Account Login Form</caption>
+
+			<tr>
+				<td>UserName:</td>
+				<td><input type="text" name="uname" id="uname"></td>
+			</tr>
+
+			<tr>
+				<td>PassWord:</td>
+				<td><input type="submit" value="login" id="pword"></td>
+			</tr>
+
+		</table>
+		<input type="password" name="pword"> <br>
+
+	</form>
+
+
+<script>
+
+const uName=document.getElementById("uname");
+const pWord=document.getElementById("pword");
+
+function validateForm(){
+	
+	if(uName.value.replace()==""){
+		alert("* Invalid UserName");
+		return false;
+	}else if(pWord.value.replace()==""){
+		alert("* Invalid Password");
+		return false;
+	}else{
+		return true;
+	}
+}
+
+</script>
+</body>
+</html>
